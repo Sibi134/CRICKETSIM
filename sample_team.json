@@ -1,0 +1,273 @@
+{
+  "team": {
+    "id": "TEAM001",
+    "name": "Chennai Super Kings",
+    "shortName": "CSK",
+    "captain": "PLAYER001",
+    "homeGround": "Chepauk Stadium",
+    "primaryColor": "#FFFF00",
+    "secondaryColor": "#0000FF"
+  },
+  "players": [
+    {
+      "id": "PLAYER001",
+      "name": "MS Dhoni",
+      "nationality": "India",
+      "isOverseas": false,
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Right Hand",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 85,
+        "power": 90,
+        "consistency": 85,
+        "running": 70,
+        "fielding": 90,
+        "bowling": 10,
+        "pace": 0,
+        "spin": 0,
+        "deathBowling": 0
+      }
+    },
+    {
+      "id": "PLAYER002",
+      "name": "Ruturaj Gaikwad",
+      "nationality": "India",
+      "isOverseas": false,
+      "role": "Batter",
+      "battingStyle": "Right Hand",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 88,
+        "power": 75,
+        "consistency": 90,
+        "running": 85,
+        "fielding": 80,
+        "bowling": 5,
+        "pace": 0,
+        "spin": 0,
+        "deathBowling": 0
+      }
+    },
+    {
+      "id": "PLAYER003",
+      "name": "Devon Conway",
+      "nationality": "New Zealand",
+      "isOverseas": true,
+      "role": "Wicketkeeper Batter",
+      "battingStyle": "Left Hand",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 89,
+        "power": 78,
+        "consistency": 91,
+        "running": 82,
+        "fielding": 85,
+        "bowling": 0,
+        "pace": 0,
+        "spin": 0,
+        "deathBowling": 0
+      }
+    },
+    {
+      "id": "PLAYER004",
+      "name": "Ajinkya Rahane",
+      "nationality": "India",
+      "isOverseas": false,
+      "role": "Batter",
+      "battingStyle": "Right Hand",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 82,
+        "power": 70,
+        "consistency": 85,
+        "running": 80,
+        "fielding": 85,
+        "bowling": 10,
+        "pace": 0,
+        "spin": 0,
+        "deathBowling": 0
+      }
+    },
+    {
+      "id": "PLAYER005",
+      "name": "Shivam Dube",
+      "nationality": "India",
+      "isOverseas": false,
+      "role": "All-rounder",
+      "battingStyle": "Left Hand",
+      "bowlingStyle": "Right Arm Medium",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 84,
+        "power": 92,
+        "consistency": 78,
+        "running": 70,
+        "fielding": 75,
+        "bowling": 60,
+        "pace": 70,
+        "spin": 0,
+        "deathBowling": 50
+      }
+    },
+    {
+      "id": "PLAYER006",
+      "name": "Ravindra Jadeja",
+      "nationality": "India",
+      "isOverseas": false,
+      "role": "All-rounder",
+      "battingStyle": "Left Hand",
+      "bowlingStyle": "Left Arm Orthodox",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 80,
+        "power": 85,
+        "consistency": 75,
+        "running": 90,
+        "fielding": 98,
+        "bowling": 88,
+        "pace": 0,
+        "spin": 85,
+        "deathBowling": 70
+      }
+    },
+    {
+      "id": "PLAYER007",
+      "name": "Moeen Ali",
+      "nationality": "England",
+      "isOverseas": true,
+      "role": "All-rounder",
+      "battingStyle": "Left Hand",
+      "bowlingStyle": "Right Arm Off Spin",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 82,
+        "power": 86,
+        "consistency": 75,
+        "running": 75,
+        "fielding": 80,
+        "bowling": 78,
+        "pace": 0,
+        "spin": 80,
+        "deathBowling": 40
+      }
+    },
+    {
+      "id": "PLAYER008",
+      "name": "Mitchell Santner",
+      "nationality": "New Zealand",
+      "isOverseas": true,
+      "role": "Bowling All-rounder",
+      "battingStyle": "Left Hand",
+      "bowlingStyle": "Left Arm Orthodox",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 70,
+        "power": 75,
+        "consistency": 65,
+        "running": 75,
+        "fielding": 90,
+        "bowling": 85,
+        "pace": 0,
+        "spin": 85,
+        "deathBowling": 75
+      }
+    },
+    {
+      "id": "PLAYER009",
+      "name": "Deepak Chahar",
+      "nationality": "India",
+      "isOverseas": false,
+      "role": "Fast Bowler",
+      "battingStyle": "Right Hand",
+      "bowlingStyle": "Right Arm Medium Fast",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 55,
+        "power": 65,
+        "consistency": 45,
+        "running": 60,
+        "fielding": 75,
+        "bowling": 86,
+        "pace": 80,
+        "spin": 0,
+        "deathBowling": 75
+      }
+    },
+    {
+      "id": "PLAYER010",
+      "name": "Matheesha Pathirana",
+      "nationality": "Sri Lanka",
+      "isOverseas": true,
+      "role": "Fast Bowler",
+      "battingStyle": "Right Hand",
+      "bowlingStyle": "Right Arm Fast",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 20,
+        "power": 30,
+        "consistency": 15,
+        "running": 40,
+        "fielding": 65,
+        "bowling": 90,
+        "pace": 95,
+        "spin": 0,
+        "deathBowling": 98
+      }
+    },
+    {
+      "id": "PLAYER011",
+      "name": "Maheesh Theekshana",
+      "nationality": "Sri Lanka",
+      "isOverseas": true,
+      "role": "Spin Bowler",
+      "battingStyle": "Right Hand",
+      "bowlingStyle": "Right Arm Off Spin",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 25,
+        "power": 30,
+        "consistency": 20,
+        "running": 50,
+        "fielding": 70,
+        "bowling": 87,
+        "pace": 0,
+        "spin": 88,
+        "deathBowling": 80
+      }
+    },
+    {
+      "id": "PLAYER012",
+      "name": "Tushar Deshpande",
+      "nationality": "India",
+      "isOverseas": false,
+      "role": "Fast Bowler",
+      "battingStyle": "Left Hand",
+      "bowlingStyle": "Right Arm Medium Fast",
+      "availability": true,
+      "availabilityReason": "Available",
+      "ratings": {
+        "batting": 30,
+        "power": 40,
+        "consistency": 25,
+        "running": 50,
+        "fielding": 70,
+        "bowling": 80,
+        "pace": 82,
+        "spin": 0,
+        "deathBowling": 80
+      }
+    }
+  ]
+}
